@@ -1,0 +1,24 @@
+{
+  "name": "shereen-qaralusi",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqaralusi/shereen-qaralusi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqaralusi/shereen-qaralusi/issues"
+  },
+  "homepage": "https://github.com/sqaralusi/shereen-qaralusi#readme",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
